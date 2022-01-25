@@ -1,0 +1,20 @@
+@font-face{
+    font-family:'Poppins', sans-serif;
+    src: url('https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap');
+}
+*{
+    font-family: Poppins;
+    margin: 0px;
+    padding: 0px;
+}
+#sayfa{
+    color: rgb(244, 250, 255);
+    border-style: solid;
+    width: 100px;
+    border-width: 2px;
+    min-height: 800px;
+    margin: auto;
+}
+body{
+    background-color: #405556;
+}
